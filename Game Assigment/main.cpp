@@ -5,4 +5,5 @@ void main(){
 	cout << "I AM SUPERMAN\n" << endl;
 	cout << "I LOVE BLACKPINK" << endl;
 	cout << "I LOVE BURGER" << endl;
+	cout << "HELLO WORLD" << endl;
 }
